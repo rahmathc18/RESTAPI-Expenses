@@ -1,0 +1,34 @@
+{
+    "expense": [
+        {
+            "id": 1,
+            "name":"Lambo",
+            "nominal":990000,
+            "category":"car"
+        },
+        {
+            "id": 2,
+            "name":"BMW",
+            "nominal":880000,
+            "category":"car"
+        },
+        {
+            "id": 3,
+            "name":"Harley",
+            "nominal":220000,
+            "category":"bike"
+        },
+        {
+            "id": 4,
+            "name":"KTC",
+            "nominal":350000,
+            "category":"bike"
+        },
+        {
+            "id": 5,
+            "name":"Ferrari",
+            "nominal":555555,
+            "category":"car"
+        }
+    ]
+}
